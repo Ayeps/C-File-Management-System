@@ -18,13 +18,13 @@ A simple file management system in C language.
 - changeDir
 - listDir
 
-#To run the project
-1) Clone or Download the project.
-2) Move to the project directory.
-3) Execute in terminal  -  ./project (any of the above mentioned functions)
+# To run the project
+- Clone or Download the project.
+- Move to the project directory.
+- Execute in terminal  -  ./project (any of the above mentioned functions)
     for ex: "./project changeExt
-4) It will print the usage of the function. Follow the usage to execute the command.
+- It will print the usage of the function. Follow the usage to execute the command.
     for ex : "./project changeExt /path/to/file file_name new_extension"
-5) Enjoy.
+- Enjoy.
 
 
